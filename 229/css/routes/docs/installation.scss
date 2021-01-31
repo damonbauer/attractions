@@ -1,0 +1,20 @@
+@use 'attractions-theme' as vars;
+
+.installation {
+  margin-top: 0.5em;
+
+  :global {
+    nav {
+      justify-content: flex-start;
+      padding: 0 0.5em;
+    }
+
+    pre {
+      margin-top: 0;
+    }
+  }
+}
+
+strong {
+  color: vars.$main;
+}

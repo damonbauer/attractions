@@ -1,0 +1,1 @@
+var e=Object.freeze({START:"main-start",CENTER:"main-center",END:"main-end",SPACE_AROUND:"main-sa",SPACE_BETWEEN:"main-sb",SPACE_EVENLY:"main-se"}),s=Object.freeze({START:"cross-start",CENTER:"cross-center",END:"cross-end",STRETCH:"cross-stretch",BASELINE:"cross-baseline"});export{s as C,e as M};

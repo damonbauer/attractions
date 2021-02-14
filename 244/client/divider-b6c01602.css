@@ -1,0 +1,1 @@
+hr.svelte-4biw3q{border:0 solid #ddd;border-top-width:1px;margin-top:1em;width:100%}hr[data-text].svelte-4biw3q{position:relative;overflow:visible}hr[data-text].svelte-4biw3q::after{content:attr(data-text);background:#fff;padding:0 0.4em;position:absolute;top:0;left:50%;transform:translate(-50%, -55%);font-size:0.85rem}
